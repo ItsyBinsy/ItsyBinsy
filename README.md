@@ -1,4 +1,11 @@
-[![Portfolio](https://img.shields.io/badge/Portfolio-vcvv--portfolio.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://vcvv-portfolio.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-vincecvv-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vincecvv) [![Email](https://img.shields.io/badge/Email-vincecvviana%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vincecvviana@gmail.com)
+
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-vcvv--portfolio.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://vcvv-portfolio.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-vincecvv-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vincecvv) [![Email](https://img.shields.io/badge/Email-vincecvviana%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vincecvviana@gmail.com)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF¢er=true&vCenter=true&width=500&lines=Full-stack+developer;QA-minded+builder;Ships+end-to-end)](https://git.io/typing-svg)
+
+
+
 
 # Vince Carl Viaña
 
@@ -8,8 +15,16 @@ Full-stack developer and QA-minded builder who ships products end-to-end — fro
 
 ### Skills & Tools
 
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,bootstrap,nodejs,laravel,flutter,dart,mysql,supabase,firebase,figma,azure,git,github&theme=dark)](https://skillicons.dev)
+
+
+
+
 | | |
-|---|---|
+|:---|:---|
 | **Frontend** | HTML · CSS · JavaScript · TypeScript · React · Next.js · AngularJS · Tailwind CSS · Bootstrap |
 | **Backend** | Node.js · Express.js · Laravel · REST APIs |
 | **Mobile** | Flutter · Dart · Kotlin · Android Studio |
@@ -23,6 +38,9 @@ Full-stack developer and QA-minded builder who ships products end-to-end — fro
 ### GitHub Stats
 
 
+
+
+
   
   
   
@@ -32,14 +50,17 @@ Full-stack developer and QA-minded builder who ships products end-to-end — fro
   
   
   
+
+
+
 
 
 ---
 
 ### Projects
 
-**StudAI — AI-Driven Study Buddy with Gamified Engagement**
-`Aug 2025 – Present`  ·  Capstone Project  ·  Full-Stack Developer
+**[StudAI — AI-Driven Study Buddy with Gamified Engagement](#)**
+`Aug 2025 – Present` · Capstone Project · Full-Stack Developer
 
 Gamified study platform for UST-CICS students with real-time multiplayer quiz battles across three difficulty modes, AI-powered study recommendations, achievement systems, and progress tracking. Deployed on Digital Ocean.
 
@@ -47,17 +68,17 @@ Gamified study platform for UST-CICS students with real-time multiplayer quiz ba
 
 ---
 
-**Barangay 24/7 — Digital Barangay Management Platform**
-Government Client  ·  Full-Stack Developer
+**[Barangay 24/7 — Digital Barangay Management Platform](#)**
+`Government Client` · Full-Stack Developer
 
-Role-based management system with household registrations, resident profiles, employee records, infrastructure project tracking, and incident reporting. Three-tier access control (Administrator, Employee, Resident). Deployed on Digital Ocean.
+Role-based management system with household registrations, resident profiles, employee records, infrastructure project tracking, and incident reporting. Three-tier access control. Deployed on Digital Ocean.
 
 `Laravel` `Bootstrap` `MySQL`
 
 ---
 
-**ExperienceMIMARopa — Regional Tourism Platform**
-Government · Regional Client  ·  Frontend Developer & QA
+**[ExperienceMIMARopa — Regional Tourism Platform](#)**
+`Government · Regional Client` · Frontend Developer & QA
 
 Responsive tourism platform connecting tourists with MIMAROPA regional attractions. Destination showcases, tour packages, user authentication, blog system, and direct booking integration. QA lead for cross-browser compatibility.
 
@@ -65,8 +86,8 @@ Responsive tourism platform connecting tourists with MIMAROPA regional attractio
 
 ---
 
-**FAST Laboratories — HR Payroll Management System**
-Enterprise Client  ·  Frontend Developer  ·  Certificate of Appreciation — FAST Labs
+**[FAST Laboratories — HR Payroll Management System](#)**
+`Enterprise Client` · Frontend Developer · Certificate of Appreciation — FAST Labs
 
 Automated payroll interface with employee record management, salary calculation modules, and report generation. Resolved critical HR issues including inconsistent records and processing delays.
 
@@ -74,8 +95,8 @@ Automated payroll interface with employee record management, salary calculation 
 
 ---
 
-**Star Coloroof — Roofing Products E-Commerce Platform**
-Business Client  ·  Full-Stack Developer
+**[Star Coloroof — Roofing Products E-Commerce Platform](#)**
+`Business Client` · Full-Stack Developer
 
 Online storefront for a roofing products company with product catalog, shopping cart, booking system, and customer inquiry features. Complete digital transformation from physical to online.
 
@@ -92,4 +113,6 @@ Online storefront for a roofing products company with product catalog, shopping 
 
 ---
 
-Manila, Philippines  ·  UST BSIT Dean's Lister 2022–2025  ·  Currently at Blackfort PH
+
+
+Manila, Philippines  ·  UST BSIT Dean's Lister 2022–2025  ·  Currently at Blackfort PH
