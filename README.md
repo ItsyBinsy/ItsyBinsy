@@ -65,7 +65,8 @@ from architecture and development to testing and deployment.
 
 ### 📊 GitHub Stats
 
-![Vince's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsyBinsy&show_icons=true&theme=github_dark&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=ItsyBinsy&theme=github-dark&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsyBinsy&layout=compact&theme=github_dark&hide_border=true)
 
 ---
