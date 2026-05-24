@@ -1,6 +1,6 @@
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-vcvv--portfolio.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://vcvv-portfolio.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-vincecvv-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vincecvv) [![Email](https://img.shields.io/badge/Email-vincecvviana%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vincecvviana@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vinceviana.site-000?style=flat-square&logo=vercel&logoColor=white)](https://vcvv-portfolio.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-vincecvv-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vincecvv) [![Email](https://img.shields.io/badge/Email-vincecvviana%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vincecvviana@gmail.com)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF¢er=true&vCenter=true&width=500&lines=Full-stack+developer;QA-minded+builder;Ships+end-to-end)](https://git.io/typing-svg)
 
