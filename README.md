@@ -8,7 +8,7 @@ Former Software Engineer Intern at Blackfort PH · University of Santo Tomas, Ba
 ## Experience
 
 **Software Engineer Intern · Blackfort Consulting PH** `Feb 2026 – May 2026`
-Built TLL Daily Drill end-to-end (Figma to production React). Resolved bug tickets across Blazor WebAssembly + ASP.NET Core backend. Worked in Agile/Scrum sprints with Azure DevOps CI/CD and PR-based code review.
+Consulting environment across multiple client projects. Contributed to TLL Daily Drill (ReactJS + Strapi v5) as part of a team, taking ownership of specific features from Figma to production. Resolved bug tickets across BF Timesheet, a Blazor WebAssembly + ASP.NET Core system built on CQRS/MediatR architecture. Worked in Agile/Scrum sprints using Azure DevOps CI/CD, Azure Repos, and PR-based code review alongside senior engineers.
 
 ## Projects
 
@@ -39,9 +39,21 @@ E-commerce platform for a roofing products company. Product catalog, cart, and b
 **ExperienceMIMARopa** `HTML · CSS · JavaScript · Bootstrap` · Academic
 Regional tourism platform for MIMAROPA. QA lead for cross-browser compatibility.
 
-## Stack
+## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,nodejs,laravel,cs,flutter,mysql,postgres,firebase,supabase,figma,git,github,azure,docker&theme=dark)](https://skillicons.dev)
+**Frontend** &nbsp; HTML · CSS · JavaScript · TypeScript · React · Next.js · AngularJS · Tailwind CSS · Bootstrap · Framer Motion · PWA · shadcn/ui
+
+**Backend** &nbsp; Node.js · Express.js · Laravel · ASP.NET Core · Blazor WebAssembly · REST APIs · GraphQL
+
+**Mobile** &nbsp; Flutter · Dart · Kotlin · Android Studio
+
+**Database** &nbsp; MySQL · PostgreSQL · SQL Server · Firebase · Supabase · Strapi
+
+**Testing** &nbsp; Playwright · Manual Testing · Cross-browser · Postman · UX Validation
+
+**DevOps** &nbsp; Git · GitHub · Azure DevOps · Docker · Vercel · Digital Ocean · Nginx · CI/CD · GitHub Actions
+
+**Design** &nbsp; Figma · Adobe Photoshop · UI/UX Design · Copywriting
 
 ## Certifications
 
