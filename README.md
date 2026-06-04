@@ -1,7 +1,7 @@
 # Vince Carl Viaña
 
 I build things that matter and ship them to real users.
-Former Software Engineer Intern at Blackfort PH · University of Santo Tomas, Bachelor of Science in Information Technology · Dean's Lister 2022–2025
+Former Software Engineer Intern at Blackfort PH · University of Santo Tomas, Bachelor of Science in Information Technology · Dean's Lister 2022–2026
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vinceviana.com-000?style=flat-square&logo=vercel&logoColor=white)](https://vinceviana.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-vincecvv-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vincecvv) [![Email](https://img.shields.io/badge/vincecvviana%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vincecvviana@gmail.com)
 
