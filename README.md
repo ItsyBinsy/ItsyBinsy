@@ -39,7 +39,7 @@ I ship. Not just coursework. A live PWA with real users, bug tickets inside a 14
 
 ## Experience
 
-**Software Engineer Intern · Blackfort Consulting PH** `Feb 2026 – May 2026`
+**Software Engineer Intern · Blackfort Consulting PH** `Feb 2026 - May 2026`
 
 Agile/Scrum team across two client projects. TLL Daily Drill (ReactJS + Strapi v5) from Figma to production. BF Timesheet bug tickets across a .NET 9 CQRS backend and Blazor client. Azure DevOps daily: boards, PRs, code review.
 
