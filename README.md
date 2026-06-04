@@ -1,6 +1,6 @@
 # Vince Carl Viaña
 
-Full-Stack Developer. University of Santo Tomas, BS Information Technology. Dean's Lister 2022–2025.
+Full-Stack Developer. University of Santo Tomas, BS Information Technology. Dean's Lister 2022-2026.
 
 I ship. Not just coursework. A live PWA with real users, bug tickets inside a 14-project enterprise codebase on week one of internship, and an AI eval suite I built because I thought it should exist. I'm looking for a team that wants someone who does that.
 
