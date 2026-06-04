@@ -27,37 +27,45 @@ Former Software Engineer Intern at Blackfort PH · University of Santo Tomas, Ba
 | **[NamNam](https://github.com/ItsyBinsy/namnam)** | Academic | Flutter · Firebase · Firestore |
 | **BF Timesheet** | Internship | ASP.NET Core · Blazor WebAssembly · Entity Framework · Docker |
 | **[StudAI](https://studai.dev)** | Academic | ReactJS · Node.js · MySQL · Firebase |
+| **[Star Coloroof](https://github.com/npsangco/Coloroof-App)** | Academic | ReactJS · Node.js · REST API |
 | **Barangay 24/7** | Academic | Laravel · MySQL · DigitalOcean |
 | **FAST Laboratories** | Academic | AngularJS · ASP.NET MVC · MySQL |
-| **[Star Coloroof](https://github.com/npsangco/Coloroof-App)** | Freelance | ReactJS · Node.js · REST API |
+| **Viva La Vigan** | Academic | ASP.NET MVC · AngularJS · Entity Framework · MySQL |
+| **Webinar Platform UX Testing** | Freelance | Software QA · Manual Testing |
 | **ExperienceMIMARopa** | Academic | HTML · CSS · JavaScript · Bootstrap |
 
 **[Saan Tayo Kakain](https://saantayokakain.today)**
-GPS-based restaurant picker. Server-side API proxy with rate limiting and input validation. 37 Playwright E2E tests with route mocking, custom fixtures, and CI via GitHub Actions. Live with real users.
+GPS-based restaurant picker PWA with 3 interactive game modes. Server-side API proxy with input allowlisting, AbortController timeouts, and Upstash Redis rate limiting across serverless instances. Full Playwright E2E suite with route mocking, custom typed fixtures, localStorage injection, and mobile viewport testing. Live at saantayokakain.today.
 
 **[TLL Daily Drill](https://wikaygaling-dev.blackfortconsulting.com)**
-Filipino vocabulary quiz app built for The Learning Library. Multiple question formats, 15s timers, star scoring, and localStorage resume. Delivered across Agile sprints in a professional team environment.
+Filipino vocabulary quiz app built for The Learning Library. Multiple question formats (image-based, word cloud, pure text), countdown timers, star-based scoring, and localStorage persistence that saves progress on every answer. Delivered across Agile sprints in a professional consulting team.
 
 **[NamNam](https://github.com/ItsyBinsy/namnam)**
-Restaurant discovery and review app. Real-time search, photo uploads, community reviews, Google Sign-In, and auto-updating ratings. Led a 3-person team from Figma to final build.
+Restaurant discovery and review app. Real-time multi-parameter Firestore search, photo uploads, automated rating aggregation, Google Sign-In, and cross-document data cascading. Led a 3-person team from Figma mockups to final Flutter build.
 
 **BF Timesheet**
-Timesheet management system. Resolved bug tickets across a CQRS/MediatR architecture on a .NET 9 multi-project solution. Approval flows, corrections, and reporting.
+Enterprise timesheet and HR system. Resolved bug tickets across a CQRS/MediatR .NET 9 backend and Blazor WebAssembly client. Clean Architecture with 14 projects across Api, Client, Core, Infrastructure, Shared, Test, and Tools layers.
 
 **[StudAI](https://studai.dev)**
-AI-powered study platform for UST students. Real-time multiplayer quiz battles, adaptive difficulty, achievement system, and progress tracking.
-
-**Barangay 24/7**
-Three-tier role-based barangay management system. Household records, incident reports, employee records, infrastructure tracking.
-
-**FAST Laboratories**
-HR payroll system. Resolved inconsistent records and processing delays. Certificate of Appreciation from FAST Labs.
+AI-powered study platform. Real-time multiplayer quiz battles via Firebase Realtime Database, adaptive difficulty with dynamic question reordering, server-side scoring with daily caps, 6-digit share codes, and an AI evaluation suite using DeepEval and GPT-3.5-turbo as LLM judge across 9 test cases.
 
 **[Star Coloroof](https://github.com/npsangco/Coloroof-App)**
-E-commerce platform for a roofing products company. Product catalog, cart, and booking system.
+Multi-page React e-commerce app for a roofing products supplier. Protected admin routes, real-time product search, category filtering, and three connected Node.js servers for data, email (Nodemailer), and image uploads (Multer).
+
+**Barangay 24/7**
+Three-tier role-based barangay management system (admin, employee, resident). Laravel MVC with Eloquent ORM, soft deletes, 7 models across 15 migrations, deployed to DigitalOcean with a managed MySQL 8 database.
+
+**Viva La Vigan**
+Multi-role blogging and content management platform. Three access tiers with status-based authentication (pending → approved → rejected), full CRUD across ASP.NET MVC backend and AngularJS frontend, segregated DbContexts per domain.
+
+**FAST Laboratories**
+HR payroll system for a real company client. Resolved inconsistent records, salary miscalculations, and processing delays. Certificate of Appreciation from FAST Laboratories.
+
+**Webinar Platform UX Testing**
+End-to-end UX testing across two private-label platforms (jewelry dropshipping and browser-based webinar). Delivered structured written feedback, screen-recorded proof-of-testing, and actionable usability insights for each product team.
 
 **ExperienceMIMARopa**
-Regional tourism platform for MIMAROPA. QA lead for cross-browser compatibility.
+Regional tourism platform for MIMAROPA. Multi-role access (User, Writer, Admin), database-backed authentication, and manual QA across all pages for cross-browser compatibility.
 
 <br>
 
@@ -65,13 +73,13 @@ Regional tourism platform for MIMAROPA. QA lead for cross-browser compatibility.
 
 | | |
 |---|---|
-| **Frontend** | HTML · CSS · JavaScript · TypeScript · React · Next.js · AngularJS · Tailwind CSS · Bootstrap · Framer Motion · PWA · shadcn/ui |
-| **Backend** | Node.js · Express.js · Laravel · ASP.NET Core · Blazor WebAssembly · REST APIs · GraphQL |
+| **Frontend** | HTML · CSS · JavaScript · TypeScript · React · Next.js · AngularJS · Tailwind CSS · Bootstrap · Materialize · shadcn/ui · Zustand · Framer Motion · PWA |
+| **Backend** | Node.js · Express.js · Laravel · ASP.NET Core · Blazor WebAssembly · REST APIs · GraphQL · MVC Architecture |
 | **Mobile** | Flutter · Dart · Kotlin · Android Studio |
-| **Database** | MySQL · PostgreSQL · SQL Server · Firebase · Supabase · Strapi |
-| **Testing** | Playwright · Manual Testing · Cross-browser · Postman · UX Validation |
-| **DevOps** | Git · GitHub · Azure DevOps · Docker · Vercel · Digital Ocean · Nginx · CI/CD · GitHub Actions |
-| **Design** | Figma · Adobe Photoshop · UI/UX Design · Copywriting |
+| **Database** | MySQL · PostgreSQL · SQL Server · Firebase · Supabase · Strapi · HeidiSQL |
+| **Testing** | Playwright · Python · DeepEval · Manual Testing · Cross-browser · Postman · UX Validation · Bug Tracking |
+| **DevOps** | Git · GitHub · Azure DevOps · Docker · Vercel · Digital Ocean · CI/CD |
+| **Design** | Figma · Adobe Photoshop · UI/UX Design · Copywriting · Social Media Management |
 
 <br>
 
