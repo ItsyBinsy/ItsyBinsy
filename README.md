@@ -15,7 +15,7 @@ I ship. Not just coursework. A live PWA with real users, bug tickets inside a 14
 | Project | Stack | Signal |
 |---|---|---|
 | **[Saan Tayo Kakain](https://saantayokakain.today)** | Next.js · TypeScript · Upstash Redis · Playwright · PWA | Live product · Distributed rate limiter · Full E2E suite |
-| **[TLL Daily Drill](https://wikaygaling-dev.blackfortconsulting.com)** | ReactJS · Strapi v5 · Azure DevOps | Internship · Client-facing · Agile sprints |
+| **[The Learning Library Daily Drill](https://wikaygaling-dev.blackfortconsulting.com)** | ReactJS · Strapi v5 · Azure DevOps | Internship · Client-facing · Agile sprints |
 | **[NamNam](https://github.com/ItsyBinsy/namnam)** | Flutter · Dart · Cloud Firestore · Firebase | Team lead · Mobile · Real-time search |
 | **BF Timesheet** | ASP.NET Core · Blazor WebAssembly · CQRS · Docker | Enterprise · 14-project Clean Architecture |
 | **[StudAI](https://studai.dev)** | ReactJS · Node.js · MySQL · Firebase | Capstone · Real-time multiplayer · AI eval suite |
@@ -41,7 +41,7 @@ I ship. Not just coursework. A live PWA with real users, bug tickets inside a 14
 
 **Software Engineer Intern · Blackfort Consulting PH** `Feb 2026 - May 2026`
 
-Agile/Scrum team across two client projects. TLL Daily Drill (ReactJS + Strapi v5) from Figma to production. BF Timesheet bug tickets across a .NET 9 CQRS backend and Blazor client. Azure DevOps daily: boards, PRs, code review.
+Agile/Scrum team across two client projects. The Learning Library Daily Drill (ReactJS + Strapi v5) from Figma to production. BF Timesheet bug tickets across a .NET 9 CQRS backend and Blazor client. Azure DevOps daily: boards, PRs, code review.
 
 <br>
 
