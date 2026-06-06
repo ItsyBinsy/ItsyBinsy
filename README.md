@@ -33,7 +33,7 @@ I ship. Not just coursework. A live PWA with real users, bug tickets inside a 14
 
 **StudAI:** Built an AI evaluation suite solo in Python using DeepEval with GPT-3.5-turbo as an LLM judge. 9 test cases, 3 metrics (Summarization, Faithfulness, Answer Relevancy), all passed. Not assigned to me. I proposed and delivered it.
 
-**My portfolio:(https://vinceviana.com)** Three distinct layouts for desktop, tablet, and mobile, not just responsive CSS tweaks. Dark mode, custom cursor, smooth scroll, and a GPT-4o-mini chatbot backed by AWS Lambda behind API Gateway. Hosted on S3 with CloudFront as CDN, SSL via ACM, and DNS through Hostinger. The portfolio is itself a project.
+**[My portfolio:](https://vinceviana.com)** Three distinct layouts for desktop, tablet, and mobile, not just responsive CSS tweaks. Dark mode, custom cursor, smooth scroll, and a GPT-4o-mini chatbot backed by AWS Lambda behind API Gateway. Hosted on S3 with CloudFront as CDN, SSL via ACM, and DNS through Hostinger. The portfolio is itself a project.
 
 
 <br>
