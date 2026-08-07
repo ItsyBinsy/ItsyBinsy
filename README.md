@@ -13,6 +13,10 @@ I ship. Not just coursework. A live PWA with real users, bug tickets inside a 14
 
 ## Experience
 
+**Junior Software Engineer · Blackfort Consulting PH** `Jul 2026 - Present`
+
+Kept on after the internship. Still on the Human Milk Bank Project, shipping bug fixes and features on a compliance-grade Blazor WebAssembly + ASP.NET Core platform used by human milk banks nationwide.
+
 **Software Engineer Intern · Blackfort Consulting PH** `Feb 2026 - May 2026`
 
 Agile/Scrum team across four client projects. The Learning Library Daily Drill (ReactJS + Strapi v5) from Figma to production. BF Timesheet bug tickets across a .NET 9 CQRS backend and Blazor client. Human Milk Bank Project bug tickets across a compliance-grade healthcare platform. BF Website Revamp CMS wiring in Next.js + GraphQL + Strapi 5. Azure DevOps daily: boards, PRs, code review.
