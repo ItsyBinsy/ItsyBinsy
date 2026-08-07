@@ -7,6 +7,7 @@ I ship. Not just coursework. A live PWA with real users, bug tickets inside a 14
 [![Portfolio](https://img.shields.io/badge/Portfolio-vinceviana.com-000?style=flat-square&logo=amazonaws&logoColor=white)](https://vinceviana.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vincecvv-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vincecvv)
 [![Email](https://img.shields.io/badge/vincecvviana%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vincecvviana@gmail.com)
+![My commit activity](./contributions.svg)
 
 <br>
 
